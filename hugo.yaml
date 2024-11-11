@@ -9,13 +9,15 @@ params:
   profileMode:
     enabled: true
     # title: "アフォンソ・塚本" # 任意。デフォルトはサイトタイトルになります
-    subtitle: "**[Remote](https://remote.com/)**のエンジニアリングチームリード"
-    subsubtitle: "以前は**[EnjoyHQ](https://www.usertesting.com/platform/enjoyhq)**および**[Faber Ventures](https://www.faber.vc/)**に所属"
+    subtitle: "<strong>**「[Remote](https://remote.com/)」**</strong>のエンジニアリングチームリード"
+    subsubtitle: "以前は<strong>**「[EnjoyHQ](https://www.usertesting.com/platform/enjoyhq)」**</strong>および<strong>**「[Faber Ventures](https://www.faber.vc/)」**</strong>に所属"
     imageUrl: "images/profile.jpeg" # 任意
     # imageTitle: "<画像のaltタイトル>" # 任意
     # imageWidth: 120 # カスタムサイズ
     # imageHeight: 120 # カスタムサイズ
   socialIcons:
+    - name: email
+      url: "mailto:doumo@tsukamototoshi.jp"
     - name: github
       url: "https://github.com/AfonsoTsukamoto"
     - name: stackoverflow
