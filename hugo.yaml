@@ -1,0 +1,26 @@
+baseURL: https://tsukamototoshi.jp/
+languageCode: ja-JP
+title: 塚本トシ
+theme: ["PaperMod"]
+
+
+# https://github.com/adityatelange/hugo-PaperMod
+params:
+  profileMode:
+    enabled: true
+    # title: "アフォンソ・塚本" # 任意。デフォルトはサイトタイトルになります
+    subtitle: "**[Remote](https://remote.com/)**のエンジニアリングチームリード"
+    subsubtitle: "以前は**[EnjoyHQ](https://www.usertesting.com/platform/enjoyhq)**および**[Faber Ventures](https://www.faber.vc/)**に所属"
+    imageUrl: "images/profile.jpeg" # 任意
+    # imageTitle: "<画像のaltタイトル>" # 任意
+    # imageWidth: 120 # カスタムサイズ
+    # imageHeight: 120 # カスタムサイズ
+  socialIcons:
+    - name: github
+      url: "https://github.com/AfonsoTsukamoto"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/1904052/afonso-tsukamoto"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/afonso-tsukamoto"
+    - name: x
+      url: "https://x.com/tsukafonso"
